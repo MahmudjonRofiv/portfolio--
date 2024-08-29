@@ -1,0 +1,268 @@
+@media(max-width: 479px) {
+    .container {
+        height: 100%;
+    }
+
+    .profile {
+        width: 70%;
+    }
+
+    .main {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main h2 {
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        font-family: Arial Black;
+    }
+
+    .main h4 {
+        font-family: Cascadia Mono ExtraLight;
+        font-style: italic;
+    }
+
+    .container>.main .banner {
+        margin-top: 50px;
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+
+    }
+
+    .main .about {
+        width: 80%;
+        height: 220px;
+        border: 2px solid transparent;
+        background-color: #4E5DAB;
+    }
+    .main .about1 {
+        font-style: italic;
+        color: white;
+        margin-top: 20px;
+    }
+
+    .main .about h5 {
+        font-style: italic;
+        color: white;
+        align-items: center;
+        font-size: 0.7.5em;
+        padding: 20px;
+        padding-top: 13px;
+        font-family: Candara Light;
+        word-spacing: 6px;
+    }
+
+    .main .name {
+        font-size: 1em;
+        font-style: italic;
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .main p {
+        font-size: 0.9em;
+        margin-top: 9px;
+        display: flex;
+        font-style: italic;
+        justify-content: center;
+    }
+
+    .Refund {
+        font-size: 1em;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        font-style: italic;
+
+    }
+    .main .socialNetworks {
+        border: 2px solid transparent;
+        display: flex;
+        justify-content: center;
+        border: 2px solid red;
+        height: 100px;
+    }
+
+    .main .cascade {
+        background-color: rgb(48, 48, 133);
+        width: 100%;
+    }
+
+    .main .cena {
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+        font-size: 2.6em;
+        color: white;
+        font-style: italic;
+    }
+
+    .main .lorem6 {
+        margin: auto;
+        width: 70%;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .main .lorem6 h6 {
+        display: flex;
+        justify-content: center;
+        color: white;
+        margin-top: 15px;
+        font-size: 0.8em;
+        font-style: italic;
+    }
+
+    .main .disain {
+        margin: auto;
+        margin-top: 15px;
+        width: 75%;
+        height: 330px;
+        background-color: white;
+    }
+
+    .main .disainText {
+        display: flex;
+        justify-content: center;
+        color: rgb(48, 48, 133);
+        padding-top: 20px;
+      
+    }
+
+    .main  .bilig {
+        color: rgb(48, 48, 133);
+        font-size: 2em;
+        font-style: italic;
+    }
+
+    .main .text2 {
+        color: rgb(48, 48, 133);
+        margin-top: -3px;
+        margin-bottom: 12px;
+        font-style: italic;
+    }
+
+    .main hr {
+        width: 75%;
+        color: rgba(90, 91, 91, 0.148);
+        margin: auto;
+    }
+
+   .main .text3 {
+        padding: 4px;
+        font-style: italic;
+    }
+
+    .main button {
+        width: 30%;
+        height: 39px;
+        border: 2px solid rgb(48, 48, 133);
+        margin-left: 115px;
+        margin-top: 20px;
+    }
+
+    .main .Details {
+        font-size: 1.2em;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        font-style: italic;
+    }
+
+  .main .about  .text {
+        display: flex;
+        justify-content: center;
+        font-style: italic;
+    }
+
+
+    .main .razradotka {
+        margin: auto;
+        margin-top: 25px;
+        width: 75%;
+        height: 330px;
+        background-color: white;
+        font-style: italic;
+    }
+
+   .main   .nastroyka {
+    font-style: italic;
+        margin-bottom: 20px;
+        margin: auto;
+        margin-top: 25px;
+        width: 75%;
+        height: 330px;
+        background-color: white;
+    }
+
+   .main .menu {
+        width: 100%;
+        height: 661px;
+        border: 2px solid transparent;
+        
+    }
+    .main .menu  .stol{
+        opacity: 0.7;
+        width: 100%;
+        
+}
+.main .box .kvadrat{
+    position: relative;
+    margin: 20px;
+    top: -580px;
+    float: left;
+    border: 2px solid white;
+    width: 40%;
+    height: 210px;
+    background-color: black;
+}
+.main .menu .krug{
+    width: 45%;
+    margin: auto;
+    margin-top: 55px;
+    border-radius: 50%;
+    height: 80px;
+    border: 2px solid white;
+}
+.main .menu .nomer2{
+    font-size: 1.8em;
+    color: white;
+    margin-top: 20px;
+    font-style: italic;
+       font-style: italic;
+}
+.text10{
+    font-size: 1em;
+}
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;
+    float: left;
+    position: relative;
+    top: -530px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.about12{
+    border: 1px solid red;
+}
+.box .circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 50px auto;
+}
+.box .circle p{
+    margin: 40px auto;
+}
