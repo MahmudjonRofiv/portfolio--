@@ -260,6 +260,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
+    background-color: aqua;
     border: 2px solid blue;
     margin: 50px auto;
 }
